@@ -1,5 +1,8 @@
 # Retinal Image Classification — Deep Learning Project
 
+> Author: **MedJegham** · IFT 3395/6390 (Kaggle 2 — Fall 2025)
+
+
 **Cours :** IFT 3395/6390 — Apprentissage Machine
 **Compétition :** [Kaggle 2 — Fall 2025](https://www.kaggle.com/competitions/ift-3395-6390-kaggle-2-competition-fall-2025)
 
