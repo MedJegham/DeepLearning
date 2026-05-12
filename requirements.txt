@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+torch
+torchvision
+ipykernel
+scikit-learn
+Pillow
+opencv-python
+streamlit
+plotly
+
+# Reproductibilité : figer les versions après validation locale
+#   pip freeze > requirements-lock.txt
