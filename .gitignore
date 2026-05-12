@@ -42,3 +42,6 @@ output/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local helper scripts (agent-generated)
+_*.ps1
